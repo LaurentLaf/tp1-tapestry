@@ -1,0 +1,5 @@
+<html t:type="layout" title="tp1-tapestry Index"  xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd">
+
+	<p>Vous avez trouve le nombre magique ${nbMagique} en ${nbTentatives} tentatives</p>
+	
+</html>

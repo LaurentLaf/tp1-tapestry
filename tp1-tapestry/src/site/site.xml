@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Generated site for tp1-tapestry">
+
+    <publishDate format="dd MMM yyyy"/>
+
+    <version/>
+
+    <body>
+
+        <menu name="tp1-tapestry Project">
+            <item name="About" href="index.html"/>
+        </menu>
+
+        <menu ref="reports"/>
+
+    </body>
+</project>

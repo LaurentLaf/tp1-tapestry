@@ -1,0 +1,9 @@
+<html t:type="layout" title="tp1-tapestry Index"  xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd">
+
+	<p>${message:initIndex}</p>
+
+   <p>
+   		<t:actionlink t:id="onyva" class="btn btn-primary btn-large">On y va</t:actionlink>
+   </p>
+
+</html>
